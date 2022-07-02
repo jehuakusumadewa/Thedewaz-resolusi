@@ -1,5 +1,7 @@
 DEWA REPOSITORY
 - Belajar bahasa php
 - Belajar bahasa javascipt
+  * ES6
+  * framework javascript
 - Membuat website yang bermanfaat
 - Membuat linkind yang baik
