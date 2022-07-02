@@ -1,5 +1,5 @@
 DEWA REPOSITORY
 - Belajar bahasa php
 - Belajar bahasa javascipt
-- Belajar Git dan Github
 - Membuat website yang bermanfaat
+- Membuat linkind yang baik
