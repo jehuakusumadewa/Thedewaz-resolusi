@@ -5,3 +5,4 @@ DEWA REPOSITORY
   * framework javascript
 - Membuat website yang bermanfaat
 - Membuat linkind yang baik
+- Belajar hacking
