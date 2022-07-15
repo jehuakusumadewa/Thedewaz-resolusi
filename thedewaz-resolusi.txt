@@ -3,6 +3,10 @@ DEWA REPOSITORY
 - Belajar bahasa javascipt
   * ES6
   * framework javascript
+    ^Vue
+    ^React
 - Membuat website yang bermanfaat
 - Membuat linkind yang baik
 - Belajar hacking
+- Belajar Python
+-membuat animasi
