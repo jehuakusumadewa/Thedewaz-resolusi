@@ -9,3 +9,4 @@ DEWA REPOSITORY
 - Membuat linkind yang baik
 - Belajar hacking
 - Belajar Python
+-membuat animasi
